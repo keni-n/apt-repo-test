@@ -73,3 +73,9 @@ jammy|main|amd64: hello 2.10-2ubuntu4
 jammy|main|amd64: myhello 0.01-5+deb9u1
 ```
 
+## Reference
+
+### GPG key creation
+
+https://docs.github.com/authentication/managing-commit-signature-verification/generating-a-new-gpg-key
+
